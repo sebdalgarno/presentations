@@ -1,0 +1,65 @@
+---
+title: "Introduction"
+author: "Seb Dalgarno"
+output:
+  revealjs::revealjs_presentation:
+    transition: slide
+    theme: black
+    highlight: pygments
+    center: true
+    background_transition: none
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(vitae)
+```
+
+## 
+
+<img src="./img/avatar.jpg" alt="avatar"
+	title="me" height="350" />
+	<img src="./img/rmsa_2.jpg" alt="avatar"
+	title="me" height="350" />
+
+
+## 
+
+<img src="./img/hg_map_dir.png" alt="HG"
+	title="HG Map" height="600" />
+<!-- ![hg](./img/hg_map_dir.png) { height=500px } -->
+
+## {data-background="img/northbeach1.jpg"} 
+
+## {data-background="img/northbeach_bre.jpg"}
+
+## Education and Work Experience
+
+- [personal/academic website](https://sebdalgarno.netlify.app)  
+
+## Research
+- Using ~10 years of acoustic telemetry data and Bayesian models to make inferences about White Sturgeon movement in the Columbia River.  
+
+- MITACS funding with BC Hydro approved  
+
+- [lab website](https://www.ffishlab.ca/)  
+
+## Consulting 
+- [consulting website](https://northbeachconsulting.ca)  
+- [web map example](https://haidagwaiilogging.netlify.app/)
+
+## Other Interests
+- [blog](https://fishydata.netlify.app) 
+- [band](https://rustymouldandthesugaragates.bandcamp.com/)  
+
+
+
+
+
+
+
+
+
