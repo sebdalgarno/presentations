@@ -51,7 +51,7 @@ library(vitae)
 - [consulting website](https://northbeachconsulting.ca)  
 - [web map example](https://haidagwaiilogging.netlify.app/)
 
-## Other Interests
+## Miscellaneous
 - [blog](https://fishydata.netlify.app) 
 - [band](https://rustymouldandthesugaragates.bandcamp.com/)  
 
