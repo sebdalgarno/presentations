@@ -41,18 +41,21 @@ library(vitae)
 - [personal/academic website](https://sebdalgarno.netlify.app)  
 
 ## Research
-- Using ~10 years of acoustic telemetry data and Bayesian models to make inferences about White Sturgeon movement in the Columbia River.  
+- [Freshwater Fish Ecology lab](https://www.ffishlab.ca/)  
 
-- MITACS funding with BC Hydro approved  
+- MITACS funding with BC Hydro 
 
-- [lab website](https://www.ffishlab.ca/)  
+- Using ~10 years of acoustic telemetry data and statistical models to make inferences about White Sturgeon movement in the Columbia River in relation to things like river flow and temperature. 
 
-## Consulting 
-- [consulting website](https://northbeachconsulting.ca)  
-- [web map example](https://haidagwaiilogging.netlify.app/)
+## Other (work-related) interests
+- Open Source Software development (R packages)
+- [Interactive data visualization and mapping](https://haidagwaiilogging.netlify.app/)
+- web development
+- [North Beach Consulting](https://northbeachconsulting.ca)  
+
 
 ## Miscellaneous
-- [blog](https://fishydata.netlify.app) 
+- [Fishy Data blog](https://fishydata.netlify.app) 
 - [band](https://rustymouldandthesugaragates.bandcamp.com/)  
 
 
